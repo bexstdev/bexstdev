@@ -4,13 +4,16 @@
   </sub>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=0&color=gradient&text=Hi,%20I%27m%20Prateek&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=0&color=gradient&text=Hi,%20I%27m%20Prateek&fontColor=FFFFFF&fontSize=100" />
 </p>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=1000&color=A3A3A3&center=true&vCenter=true&random=true&width=435&lines=BCA+Student;Curious+Builder;Explorer;Learning+Every+Day" alt="Typing SVG" /></a>
 </div>
 <p align="center">
   <sub>
-  M&nbsp;o&nbsp;s&nbsp;t&nbsp;l&nbsp;y&nbsp;&nbsp;s&nbsp;i&nbsp;m&nbsp;p&nbsp;l&nbsp;e.&nbsp;&nbsp;M&nbsp;o&nbsp;s&nbsp;t&nbsp;l&nbsp;y&nbsp;&nbsp;e&nbsp;x&nbsp;p&nbsp;e&nbsp;r&nbsp;i&nbsp;m&nbsp;e&nbsp;n&nbsp;t&nbsp;a&nbsp;l.&nbsp;&nbsp;A&nbsp;l&nbsp;w&nbsp;a&nbsp;y&nbsp;s&nbsp;&nbsp;l&nbsp;e&nbsp;a&nbsp;r&nbsp;n&nbsp;i&nbsp;n&nbsp;g.  
+M&nbsp;o&nbsp;s&nbsp;t&nbsp;l&nbsp;y&nbsp;&nbsp;s&nbsp;i&nbsp;m&nbsp;p&nbsp;l&nbsp;e.&nbsp;&nbsp;M&nbsp;o&nbsp;s&nbsp;t&nbsp;l&nbsp;y&nbsp;&nbsp;e&nbsp;x&nbsp;p&nbsp;e&nbsp;r&nbsp;i&nbsp;m&nbsp;e&nbsp;n&nbsp;t&nbsp;a&nbsp;l.&nbsp;&nbsp;A&nbsp;l&nbsp;w&nbsp;a&nbsp;y&nbsp;s&nbsp;&nbsp;l&nbsp;e&nbsp;a&nbsp;r&nbsp;n&nbsp;i&nbsp;n&nbsp;g.  
   </sub>
+</p>
+<p align="center">
+<a href="https://bexst.dev"><img src="https://img.shields.io/badge/Portfolio%20%E2%86%92-1A1A1A?style=for-the-badge&logoColor=white&labelColor=1A1A1A&radius=8" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/bexstdev?tab=repositories"><img src="https://img.shields.io/badge/Experiments-1A1A1A?style=for-the-badge&logoColor=white&labelColor=1A1A1A&radius=8" border="0" /></a>
 </p>
